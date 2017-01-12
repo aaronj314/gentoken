@@ -1,0 +1,16 @@
+{
+  "name": "gentoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "command-line-args": "^3.0.5",
+    "jssha": "^2.2.0"
+  }
+}
